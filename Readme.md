@@ -1,5 +1,8 @@
-### Задача
+# *Тестовое задание для компании Tortuga*
+____
 
+<details>
+<summary>Задание:</summary>
 Протестировать игру https://github.com/godhedin/qa-test-case
 
 Цель игры - добраться до красного квадрата.
@@ -29,3 +32,19 @@
 решения данной задачи. Плюсом будет создания архитектуры тестирования, удобной для поддержки и расширения
 
 Желаем удачи!
+
+</details>
+
+
+
+____
+
+### Запуск тестов:
+- Скопируйте проект к себе на устройство.
+- Начиная с версии 2.0.0, AltTester Desktop должен работать на вашем ПК во время выполнения тестов. Скачайте и установите AltTester Desktop с [официального сайта.](https://alttester.com/tools/#pricing)
+- Запустите AltTester Desktop.
+- Откройте проект в Unity Hub.
+- Запустите AltTester Editor.
+- В окне AltTester Editor нажмите на галочку у  AltTester. AltTesterUnitySDK.Editor.dll.
+- В окне Platform выберите Editor, нажмите на кнопку Play in editor, дождитесь окончания загрузки.
+- Нажмите на кнопку Run selected tests.
