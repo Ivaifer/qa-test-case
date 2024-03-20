@@ -44,6 +44,7 @@ ____
 - Начиная с версии 2.0.0, AltTester Desktop должен работать на вашем ПК во время выполнения тестов. Скачайте и установите AltTester Desktop с [официального сайта.](https://alttester.com/tools/#pricing)
 - Запустите AltTester Desktop.
 - Откройте проект в Unity Hub.
+- В окне project выберите папку Assets -> Scenes и дважды щелкните по файлу StartScene.
 - Запустите AltTester Editor.
 - В окне AltTester Editor нажмите на галочку у  AltTester. AltTesterUnitySDK.Editor.dll.
 - В окне Platform выберите Editor, нажмите на кнопку Play in editor, дождитесь окончания загрузки.
